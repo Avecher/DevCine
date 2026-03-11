@@ -1,6 +1,6 @@
 site_name: DevCineLab — Лаборатория киноязыка
 
-nav:
+что то
   - Главная: index.md
   - База знаний:
       - Введение: 01_vvedenie.md
