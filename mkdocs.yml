@@ -1,5 +1,8 @@
 site_name: DevCineLab — Лаборатория киноязыка
-
+theme:
+  name: material
+  palette:
+    primary: grey
 nav:
   - Главная: index.md
   - База знаний:
