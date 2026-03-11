@@ -23,8 +23,8 @@ jobs:
           python-version: "3.11"
 
       - name: Install MkDocs and theme
-  run: |
-    pip install mkdocs mkdocs-material
+        run: |
+          pip install mkdocs mkdocs-material
 
       - name: Build and deploy
         run: |
